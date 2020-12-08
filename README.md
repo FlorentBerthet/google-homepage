@@ -1,5 +1,5 @@
 # google-homepage
 
-## Practicing GitHub
+## Practicing html, CSS and GitHub
 
-This is a clone of the Google homepage with a working search bar.
+Clone of the Google homepage with a working search bar.
